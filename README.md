@@ -8,6 +8,7 @@ Evaluation metrics: **Perplexity (PPL)**
 |---------------|------------|----------|
 | Public Score  | 17.5       | **15.3** |
 | Private Score | 24.0       | **19.9** |
+
 The **PPL** was calculated using `ppl.py`:
 ```
 python ppl.py \
